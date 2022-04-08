@@ -1,0 +1,10 @@
+## Interface: 70200
+## Title: Grid2 |cff8080ffArrg Extensions|r
+## Notes: Extensions for Grid2
+## LoadOnDemand: 0
+## Dependencies: Grid2, Grid2Options
+## Version: r805
+
+# Statuses
+statuses\StatusFullHealth.lua
+statuses\StatusPowerTank.lua
